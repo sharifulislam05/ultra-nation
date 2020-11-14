@@ -1,0 +1,9 @@
+.favorite-country-info {
+    color: white;
+    background: rgb(202, 65, 65);
+    padding: 10px;
+    border-radius: 10px;
+}
+.card {
+    height: 90%;
+}
