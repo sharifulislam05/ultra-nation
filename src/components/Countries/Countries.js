@@ -25,7 +25,7 @@ const Countries = () => {
     return (
         <main>
             <h1 className="text-center mt-3 text-warning">Ultra Nation Countries</h1>
-            <div className="row">
+            <div className="row mt-5 pt-5">
                <div className="col-12 col-md-9 d-flex flex-wrap">
                     {
                         country.map(country => 
